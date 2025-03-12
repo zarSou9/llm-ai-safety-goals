@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "Root_Node_Example/**" # Rename to your actual root path name
+      - "AI_Safety./**" # Rename to your actual root path name
       - "meta.json"
   workflow_dispatch:
 

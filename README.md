@@ -1,4 +1,4 @@
-This is Template repo for creating a workspace for a research map on https://airesearchmaps.com
+This is the source for the `llm-ai-safety-goals` map shown at [trecursive.com/llm-ai-safety-goals](https://trecursive.com/llm-ai-safety-goals)
 
 ## Developing
 

@@ -14,5 +14,11 @@
       "horizontalSpacingAdditions": [0, 300],
       "nodeGroupSpacing": 120
     }
-  }
+  },
+  "dropdownLinks": [
+    {
+      "title": "Source Repo",
+      "url": "https://github.com/zarSou9/llm-ai-safety-goals"
+    }
+  ]
 }
